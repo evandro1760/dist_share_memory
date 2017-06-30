@@ -21,8 +21,8 @@
 	através das operações: 
 	</p>
 	<ul>
-		<p><i>Escreve(Posicao1,buffer, tam_buffer)</i></p>
-		<p><i>Le(Posicao4,tamanho)</i></p>
+		<p><i>Escreve(Posicao,buffer, tam_buffer)</i></p>
+		<p><i>Le(Posicao,tamanho)</i></p>
 	</ul>
 </ul>
 <h2 class="western">Backup logger</h2>
