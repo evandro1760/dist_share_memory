@@ -2,14 +2,9 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
 	<meta name="generator" content="LibreOffice 5.1.6.2 (Linux)"/>
 	<meta name="created" content="00:00:00"/>
-	<meta name="changed" content="2017-06-30T04:47:46.506772633"/>
-	<style type="text/css">
-		h2.cjk { font-family: "Noto Sans CJK SC Regular" }
-		h2.ctl { font-family: "FreeSans" }
-	</style>
+	<meta name="changed" content="2017-06-30T04:47:46.506772633"/>	
 </head>
 <body lang="pt-BR" dir="ltr">
 <h2 class="western">Memória compartilhada distribuída</h2>
@@ -26,8 +21,8 @@
 	através das operações: 
 	</p>
 	<ul>
-		<p><i>Escreve(Posicao1,buffer, tam_buffer)</i></p>
-		<p><i>Le(Posicao4,tamanho)</i></p>
+		<p><i>Escreve(Posicao,buffer, tam_buffer)</i></p>
+		<p><i>Le(Posicao,tamanho)</i></p>
 	</ul>
 </ul>
 <h2 class="western">Backup logger</h2>
